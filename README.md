@@ -4,7 +4,7 @@
 
 Submitted by: **Erik Sistos**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -33,6 +33,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+The first challenge I encountered was the autoconnection to parent was disabled so everything was being put to the top left corner when starting out.
+The add button at the beginning didn't want to appear in the emulator, but appeared fine in the design area, so it took a bit to figure out that issue.
+A couple of other challenges I faced was when typing the function I had it autofill and it would use the android utils instead of apache.
 
 ## License
 
