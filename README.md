@@ -40,7 +40,7 @@ A couple of other challenges I faced was when typing the function I had it autof
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Erik Sistos]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
